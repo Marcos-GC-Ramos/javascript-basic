@@ -1,3 +1,3 @@
 # javascript-basic
 
-:coffee: Starting a basic javascript course on the Alura platform.
+:coffee: Iniciando curso de javascript basico na plataforma alura.
